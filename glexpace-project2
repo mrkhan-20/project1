@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this template
+-->
+<html>
+    <head>
+        <title>About Us | Ideaware</title>
+        <link rel="stylesheet" href="style1.css">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/css/pikaday.min.css">
+    <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel = "icon" href="photos/logo.jpg" 
+        type = "image/x-icon">
+         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes"> 
+         <meta charset="utf-8">
+    </head>
+    <body>
+ <div class="container">
+<div class="logo">
+  <img src="photos/index.jpg" alt="" width="58"/>
+  </div>
+<nav>
+  <ul>
+      <li class="a" style="color:turquoise">Company</li>
+  <li>Solutions</li>
+  <li>Expertise</li>
+  <li>Blogs</li><!-- comment -->
+  <li>Careers</li><!-- comment -->
+  <li>Contact Us</li>
+  <li><button>Book a call --></button></li>
+  </ul>
+  </nav>
+</div> 
+        <div class="head" style="text-align: center"  data-aos="fade-up" data-aos-duration="800" data-aos-once="true">
+            <h1>
+                <span>MAKING</span>
+                <span style="color:turquoise">IT</span>
+                <span>HAPPEN.</span>     
+            </h1>
+            <p style="text-align: center">Building software teams to support<br> your growth is our thing. </p>
+        </div>      
+        <div class="bg">
+   <img src="photos/about1.jpg" alt="alt"/>
+        </div>
+        <div>
+        <div class="container2"><h2 style="text-align: center" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">Hola! We're Ideaware.</h2>
+            <p id="s" style="text-align:center" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">We build dedicated product teams that deliver<br>first-class results to our driven partners.</p>
+        </div>
+        </div>
+        <div class="o" style="text-align: center" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">Our Story
+            <p id="u" style="text-align: center">______</p>
+        </div>
+        <section class="features">
+       <div class="row">
+            <div class="col-md-4">
+                        <div class="feature-box">
+                            <div class="feature-details">
+                                <p style="text-align: center"><h3>“Our mission is to connect Colombia’s top talent with US companies and startups, nurturing mutual growth.”</h3>
+                                <p class="n2" style="text-align: center">- Andres Max, Founder</p>
+                             </div>
+                            <div class="feature-img">
+                                <img src="photos/max.png"/>
+                            </div>
+                           
+                        </div>
+       </div>
+           <div class="col-md-4">
+     <p class="c" style="text-align: left" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">In 2010 our Founder, Andres Max, opened Ideaware’s doors to the US market. What started as a UX/UI design agency for startups in Silicon Valley transitioned to a dedicated nearshore IT staff augmentation firm. </p>
+        </div>
+           </div><!-- comment -->
+       
+        </section>
+        <div class="wrapper">
+            <div class="content">
+            <span class="num" data-val="15">00+</span>
+            <span class="text">Years in built</span>
+            </div>
+             <div class="content">
+            <span class="num" data-val="200">00+</span>
+            <span class="text">Team members</span>
+            </div>
+             <div class="content">
+            <span class="num" data-val="300">00+</span>
+            <span class="text">Products built</span>
+            </div>
+             <div class="content">
+            <span class="num" data-val="100">00+</span>
+            <span class="text">Partners</span>
+            </div>
+        </div>
+        <div class="city">
+            <img class="img" src="photos/city.png" width="670" height="410" alt="alt"/>
+            <p>We are based in <span style="color: #0d90e6">Colombia</span>, <br>a country that has become<br> the perfect spot for software nearshoring<br> due to its location and time zone.</p>
+        </div>
+        <p class="y">Colombia is ranked the third <br>Tech Hub in Latin America.<br> Our IT Industry is a fast-growing and innovative market, <br>with a significant workforce. Over USD 8.2 billion were invested <br>in the sector in 2019.</p>
+       
+        <script src="js.js"></script>
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        duration: 1000,
+        once: true,
+      });
+    </script>
+    <section class="features2">
+            <h3>Meet Our&nbsp<strong><span style='color: blue;'><b>Leadership</b></span></strong></h3>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="feature-box2">
+                            <div class="feature-img2">
+                                <img src="Images/jonathan.png"/>
+                            </div>
+                            <div class="feature-details2">
+                                <h4>Jonathan Kay</h4>
+                                <p>CO-Founder & CEO</p>
+        
+                                 <p>Leads the daily operations at Apptopia, including product 
+                                    development and global sales. 
+                                    Jonathan is passionate about people, sports, 
+                                    and really efficient processes.</p>
+                                
+                            </div>
+                        </div>
+                    </div> 
+                 <div class="col-md-4">
+                        <div class="feature-box2">
+                            <div class="feature-img2">
+                                <img src="Images/sege.png"/>
+                            </div>
+                            <div class="feature-details2">
+                                <h4>Serge Balyuk</h4>
+                                <p>Chief Technology Officer</p>
+                                 <p>Fearlessly leads our engineering team and is responsible 
+                                     for Apptopia's underlying technology.
+                                     His focus is on data acquisition, 
+                                     with a passion for backend architecture and infrastructure..</p>
+                                
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="col-md-4">
+                        <div class="feature-box2">
+                            <div class="feature-img2">
+                                <img src="Images/tsantos.jpeg"/>
+                            </div>
+                            <div class="feature-details2">
+                                <h4>Eli Sapir</h4>
+                                <p>CO-Founder & Chairman</p>
+                                 <p>Drives Apptopia’s strategic vision and manages investor relations. 
+                                     Before Apptopia Eli was involved in several startups, 
+                                     including: GPush, Oasys Water, GreatPoint Energy, and DVTel.</p>
+                                
+                            </div>
+                        </div>
+                    </div> 
+                   
+                </div>
+                <div class="col-md-4" id="b">
+                        <div class="feature-box2">
+                            <div class="feature-img2">
+                                <img src="Images/eli.png"/>
+                            </div>
+                            <div class="feature-details2">
+                                <h4>Tim Santos</h4>
+                                <p>Chief Product Officer</p>
+                                 <p>Oversees all stages of Apptopia's product lifecycle. 
+                                     Strategic thinker with a passion for building teams 
+                                     and creating elegant solutions to complex problems..</p>
+                                
+                            </div>
+                        </div>
+                    </div> 
+            </div>
+                    </section>
+         <section class="users-feedback2">
+             <h2 align="center">Meet Our Teams</h2>
+           <div class=" col-1 mx-auto" id="a">
+                <button class="btn btn-primary" type="button"> We're hiring!</button>
+  
+             </div>
+               
+                    <div  align="center">
+                    <img src="Images/vanikin.jpeg" alt="">
+                    
+                    <img src="Images/vanokhin.jpeg" alt="">
+                        <img src="Images/sabdal.jpeg" alt="">
+                    
+                        <img src="Images/hca.jpeg" alt="" >
+                    </div>
+                       <div  align="center">
+                    <img src="Images/Arwen.jpeg" alt="">
+                    
+                   <img src="Images/janna.jpeg" alt="">
+                   
+                        
+                        
+                        <img src="Images/vcherna.jpeg" alt="">
+                    
+                        <img src="Images/nchappel.jpeg" alt="" >
+                    </div>
+             <div  align="center">
+                    <img src="Images/IMG_8509.jpeg" alt="">
+                    
+                   <img src="Images/abattista.jpeg" alt="">
+                   
+                        
+                        
+                        <img src="Images/brickell.jpeg" alt="">
+                    
+                        <img src="Images/buran.jpeg" alt="" >
+                    </div>
+                       
+      
+            
+        </section>
+
+     <main class="page projets-page">
+        <section class="portfolio-block skills" style="background: #ffffff;">
+            <div class="container">
+                <div class="heading">
+                    <h2 class="text-capitalize">Data, Deals, and&nbsp;<span style="color: var(--bs-blue);"><strong>Dogs</strong><br></span><br></h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0" style="background: url(&quot;assets/img/img/1.jpeg&quot;) center / cover no-repeat;height: 200px;"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0" style="background: url(&quot;assets/img/img/2.jpeg&quot;) top / cover no-repeat;height: 200px;"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0" style="background: url(&quot;assets/img/img/3.jpeg&quot;) center / cover no-repeat;height: 200px;"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row row-cols-lg-4 row-cols-xl-4 row-cols-xxl-4">
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0" style="background: url(&quot;assets/img/img/4.jpg&quot;) center / contain no-repeat;height: 200px;"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0" style="height: 200px;background: url(&quot;assets/img/img/5.jpg&quot;) center / contain no-repeat;"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0" style="height: 200px;background: url(&quot;assets/img/img/6.jpg&quot;) center no-repeat;"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0" style="height: 200px;background: url(&quot;assets/img/img/7.jpg&quot;) center / cover no-repeat;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="portfolio-block skills" style="background: #eff2f4;">
+            <div class="container">
+                <div class="heading">
+                    <h2 class="text-capitalize">Meet Our&nbsp;<span style="color: var(--bs-blue);"><strong>Investors</strong><br></span>&nbsp;<br></h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><img class="rounded-circle" src="assets/img/img/Frame%201.png" style="width: 120px;height: 120px;"></div>
+                            <div class="card-body">
+                                <h3 class="card-title">ABS Capital Partners<br></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><img style="width: 120px;height: 120px;" src="assets/img/img/2.png"></div>
+                            <div class="card-body">
+                                <h3 class="card-title">Sound Ventures<br></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><img style="width: 120px;height: 120px;" src="assets/img/img/3.png"></div>
+                            <div class="card-body">
+                                <h3 class="card-title">Blossom Street Ventures<br></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><img style="width: 120px;height: 120px;" src="assets/img/img/4.png"></div>
+                            <div class="card-body">
+                                <h3 class="card-title">Newfund Capital<br></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><img style="width: 120px;height: 120px;" src="assets/img/img/5.png"></div>
+                            <div class="card-body">
+                                <h3 class="card-title">Mark Cuban Companies<br></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card special-skill-item border-0">
+                            <div class="card-header bg-transparent border-0"><img style="width: 120px;height: 120px;" src="assets/img/img/6.png"></div>
+                            <div class="card-body">
+                                <h3 class="card-title">Telegraph Hill Capital<br></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="page-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col"><label class="col-form-label">&nbsp;</label></div>
+                <div class="col">
+                    <div class="row">
+                        <div class="col"><label class="col-form-label"><strong>SOLUTIONS</strong><br></label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Brands &amp; Publishers<br></label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Sales Teams</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Public Finance</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Private Equity</label></div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="row">
+                        <div class="col"><label class="col-form-label"><strong>PRODUCTS</strong><br></label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Sales Prospector</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Radar</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Alpha Intelligence</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Bloomberg Terminal App</label></div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="row">
+                        <div class="col"><label class="col-form-label"><strong>INFORMATION</strong><br></label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Pricing</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">API Documentation</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Support</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">&nbsp;</label></div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="row">
+                        <div class="col"><label class="col-form-label"><strong>COMPANY</strong><br></label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">About</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Blog</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Careers</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Press</label></div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="row">
+                        <div class="col"><label class="col-form-label"><strong>LEGAL</strong><br></label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Terms of Service</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Privacy Policy</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Data Usage Policy</label></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><label class="col-form-label">Compliance &amp; Data Integrity</label></div>
+                    </div>
+                </div>
+            </div>
+            <div class="social-icons"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-instagram-outline"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a></div>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/pikaday.min.js"></script>
+    <script src="assets/js/Lightbox-Gallery.js"></script>
+    <script src="assets/js/theme.js"></script>
+        </body>
+</html>

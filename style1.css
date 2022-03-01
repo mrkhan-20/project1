@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20 Feb, 2022, 10:59:01 PM
+    Author     : Sakshi Rai
+*/
+.features2{
+    padding:100px 0;
+
+}
+.features2 h3{
+    text-align:center;
+    padding-bottom:50px;
+    padding-top:0px;
+   
+}
+.feature-box2{
+    display: block-inline;
+}
+.feature-img2 img 
+{   
+    width:100%;
+    padding-left: 30px;
+    display: block-inline;
+}
+.feature-details2
+{
+    padding:20px;
+    text-align:justify;
+    padding-left: 30px;
+}
+.feature-details2 h4
+{
+    font-weight:700px;
+    margin-top:20px;
+    padding-left: 30px;
+}
+.feature-details2 p{
+    padding-left: 30px;
+}
+
+
+.users-feedback2 img {
+    display:flexbox;
+    width: 9%;
+    height: 9%;
+    border-radius:50%;
+     margin: 70px;
+     
+   
+}
+
+.users-feedback2{
+      padding:100px 0;
+    background:aliceblue;
+}
+#a{
+    padding-top: 30px;
+}
+
+.team{
+    display: flex;
+    justify-content: center;
+}
+.bt{
+
+    display: flex;
+    justify-content: center;
+}
+#b{
+    box-align:center;
+}

@@ -1,0 +1,262 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 20, 2022, 8:51:13 PM
+    Author     : my
+*/
+html {
+  scroll-behavior: smooth;
+}
+
+
+h1{
+    width: 100%;
+    font-size:55px;
+    padding-top: 103px;
+    margin-right: 26px;
+    display: block;
+}
+p{
+    font-size:24px;
+    margin-right: 26px;
+    display: block;
+    padding-top: 31px;
+}
+.bg{
+    width: 100%;
+    padding-left: 199px;
+    padding-top: 49px;
+    max-width: 1000px;
+}
+.n{
+    height: 260px;
+  
+}
+.container2{
+   background-image: url(photos/world.jpg);
+   padding:83px;
+}
+
+@media (max-width:900px ) {
+    h1{
+        width: 100%;
+        font-size:40px;
+        padding-top: 103px;
+        margin-right: 26px;
+        display: block;
+    }
+    p{
+        font-size:18px;
+        margin-right: 26px;
+        display: block;
+        padding-top: 31px;
+    }
+    .responsive {
+        width: 100%;
+        max-width: 1000px;
+        height: auto;
+      }
+      .bg{
+          padding-right: 0px;
+          padding-left: 0px;
+        padding-top: 49px;
+    }
+    .container2 h2{
+        font-size:30px;
+    }
+
+}
+h2{
+    font-weight: 700;
+}
+#s{
+    font-weight: 700;
+    overflow: hidden;
+    
+}
+.o{
+    padding-top: 43px;
+    font-size:24px;
+    font-weight: 700;
+    padding-right: 8px;
+}
+#u{
+    color:turquoise;
+    padding-top: 8px;
+    padding-left: 27px;
+}
+.head{
+    animation: mymove 2s;
+    position: relative;
+}
+.features{
+    padding:20px;
+    background: white;
+}
+
+.features-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+}
+.feature-item {
+    margin: 10px;
+    width: 390px;
+}
+.feature-item >p{
+    padding-left: 3rem;
+    font-size: 140%;
+}
+
+.feature-img img 
+{
+    width:100%;
+}
+
+.feature-details
+{
+    padding:20px;
+    margin-top: 20px;
+    margin-left: 36px;
+   font-size: 45px;
+   margin-right: 36px;
+}
+.n2{
+    font-size:17px;
+    margin-left: 56px;
+}
+
+.feature-box
+{
+    box-shadow:0 0 10px 1px rgba(37,73,250,0.18);
+    margin-bottom:9px;
+    background: white;
+    width: 100%;
+}
+.e{
+    color: #00ff00;
+    font-size: 87px;
+    text-align: center;
+    font-weight: 700;
+}
+.r{
+   font-size:98px;
+   color:#666666;
+ text-align: center;
+}
+.wrapper{
+    border:1px solid white;
+    width:100%;
+    transform: translate(-50%,-50%);
+    justify-content: center;
+    flex-direction: row;
+    left:50%;
+    display: flex;
+    margin-top: 77px;
+     position: relative;
+}
+
+.content{
+    width: 100%;
+    justify-content: center;
+    flex-direction: row;
+    height: 67px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    padding: 1em 0;
+    border-right: 2px solid #666666;
+    
+
+}
+.num{
+    font-size:96px;
+    color:#99cc00;
+    display:grid;
+    text-align: center;
+}
+.text{
+    color:black;
+    font-size: 19px;
+    text-align: center;
+    padding: 0.7em 0;
+    line-height: 0;
+}
+@media ( max-width:900px){
+    .wrapper{
+        width: 100%;
+    }
+
+    .num{
+        width: 100%;
+        font-size: 50px;
+    }
+    .text{
+        width: 100%;
+        font-size: 20px;
+    }
+}
+@media ( max-width:600px){
+    .wrapper{
+        width: 100%;
+    }
+
+    .num{
+        width: 100%;
+        font-size: 35px;
+    }
+    .text{
+        width: 100%;
+        font-size: 15px;
+    }
+}
+
+.img{
+    float:right;
+    margin-top: -25px;
+    padding-right: 79px;
+}
+.city p{
+    background-color:#efeded;
+    margin-top: 83px;
+    font-size: 37px;
+    padding-top: 65px;
+    text-align: left;
+    font-weight: 400;
+    padding-left: 79px;
+}
+.y{
+    background-color:#efeded;
+    padding-left: 10%;
+    font-size: 30px;
+    padding-top: 5%;
+    margin-top: -16px;
+}
+.city span{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+@media(max-width:1000px){
+    .img{
+        width: 50%;
+        height: 60%;
+        
+        margin-top: -30px;
+        padding-right: 50px;
+    }
+    .city p{
+        font-size: 20px;
+    } 
+    .y{
+        padding-left: 10%;
+        font-size: 18px;
+    }
+    .city span{
+        font-size: 25px;
+    }
+}
+
